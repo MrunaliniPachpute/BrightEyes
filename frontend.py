@@ -29,7 +29,7 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 
-def animated_title(text, delay=0.05, color="#1F4E79"):  # Deep blue color
+def animated_title(text, delay=0.05, color="#FFD700"):  # Deep blue color
     placeholder = st.empty()
     display_text = ""
     for char in text:
@@ -48,8 +48,9 @@ if page == "About":
     st.stop()
 
 # Homepage
-animated_title("📷 Captured Frames & Readable Text")
-st.markdown("View frames captured from your device and their extracted text.")
+st.title("📷 Captured Frames & Readable Text")
+animated_title("View frames captured from your device and their extracted text.")
+
 
 # Load saved frames
 image_files = sorted(glob.glob("frames/*.jpg"))

@@ -37,8 +37,8 @@ This tool empowers users with visual challenges to:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/ocr-reader-visually-impaired.git
-cd ocr-reader-visually-impaired
+git clone https://github.com/your-username/BrightEyes.git
+cd BrightEyes.git
 ```
 
 2. Create a virtual environment and activate it:
@@ -48,4 +48,12 @@ python -m venv venv
 venv\Scripts\activate
 # macOS/Linux
 source venv/bin/activate
+```
+3. Install dependencies:
+```
+pip install -r requirements.txt
+```
+4. Run the app:
+```
+streamlit run app.py
 ```

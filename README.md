@@ -1,5 +1,11 @@
-![OCR Reader Animation](https://your-gif-link.com/typing-animation.gif)
+<p align="center">
+  <img src="https://dummyimage.com/300x60/000/fff&text=OCR+Reader" alt="OCR Reader" style="font-weight:bold; vertical-align:middle;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=OCR+Reader+for+Visually+Impaired" style="vertical-align:middle;">
+</p>
 
+<div align="center">
+
+![Rainbow Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 An accessible application designed to help **visually impaired users** read printed or handwritten text effortlessly. The app captures images, extracts text using **OCR (Optical Character Recognition)**, and converts it into **natural audio output**, enabling an interactive reading experience.
 

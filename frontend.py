@@ -5,6 +5,8 @@ import pytesseract
 import summarize
 import azure_tts
 
+from about import show_about_page
+
 # Page config
 st.set_page_config(page_title="OCR Reader", layout="wide")
 
@@ -30,18 +32,7 @@ st.sidebar.markdown(
 page = st.sidebar.radio("Go to", ["Home", "About"])
 
 if page == "About":
-    st.title("ℹ️ About OCR Reader")
-    st.markdown("""
-    **OCR Reader App** helps you view captured frames from a camera or phone,
-    detect text in each frame using **Tesseract OCR**, and display it.
-    
-    Features:
-    - Show original frame
-    - Show frame with detected text highlighted
-    - Show detected text in a clean text area
-    - Combine text from all frames for easy review
-    """)
-    st.markdown("Made with a student-friendly design. 😊")
+    show_about_page()
     st.stop()
 
 # Homepage

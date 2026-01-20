@@ -5,12 +5,12 @@ load_dotenv()
 
 # Initialize client with proper config
 client = AzureOpenAI(
-    api_version=os.getenv("AZURE_OPENAI_VERSION"),
-    azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-    api_key=os.getenv("AZURE_OPENAI_API_KEY")
+    api_version = os.getenv("AZURE_OPENAI_VERSION"),
+    azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT"),
+    api_key = os.getenv("AZURE_OPENAI_API_KEY")
 )
 
-DEPLOYMENT_NAME =os.getenv("DEPLOYMENT_NAME")
+DEPLOYMENT_NAME = os.getenv("DEPLOYMENT_NAME")
 
 def summarize_text(text):
     prompt = f"Summarize this text for a visually impaired user in simple language:\n{text}"

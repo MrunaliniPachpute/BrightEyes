@@ -3,7 +3,7 @@ import cv2
 def text_coverage_percentage(frame):
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    # Adaptive threshold works better for documents
+    # Adaptive threshold 
     thresh = cv2.adaptiveThreshold(
         gray, 255,
         cv2.ADAPTIVE_THRESH_MEAN_C,

@@ -79,7 +79,7 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 🙏 Acknowledgements
+## ✅ Acknowledgements
 
 Special thanks to the communities behind:  
 - [Streamlit](https://streamlit.io/)  

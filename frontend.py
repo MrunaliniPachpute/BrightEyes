@@ -4,6 +4,7 @@ import cv2
 import pytesseract
 import summarize
 import azure_tts
+import time
 
 from about import show_about_page
 
@@ -28,6 +29,17 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 
+def animated_title(text, delay=0.05, color="#1F4E79"):  # Deep blue color
+    placeholder = st.empty()
+    display_text = ""
+    for char in text:
+        display_text += char
+        placeholder.markdown(
+            f"<h2 style='color: {color}; font-family: Arial, sans-serif;'>{display_text}</h2>", 
+            unsafe_allow_html=True
+        )
+        time.sleep(delay)
+
 
 page = st.sidebar.radio("Go to", ["Home", "About"])
 
@@ -36,7 +48,7 @@ if page == "About":
     st.stop()
 
 # Homepage
-st.title("📷 Captured Frames & Readable Text")
+animated_title("📷 Captured Frames & Readable Text")
 st.markdown("View frames captured from your device and their extracted text.")
 
 # Load saved frames

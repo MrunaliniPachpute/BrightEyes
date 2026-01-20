@@ -39,3 +39,13 @@ This tool empowers users with visual challenges to:
 ```bash
 git clone https://github.com/your-username/ocr-reader-visually-impaired.git
 cd ocr-reader-visually-impaired
+```
+
+2. Create a virtual environment and activate it:
+```
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+```

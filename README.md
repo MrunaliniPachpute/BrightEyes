@@ -1,4 +1,5 @@
-# OCR Reader for Visually Impaired
+![OCR Reader Animation](https://your-gif-link.com/typing-animation.gif)
+
 
 An accessible application designed to help **visually impaired users** read printed or handwritten text effortlessly. The app captures images, extracts text using **OCR (Optical Character Recognition)**, and converts it into **natural audio output**, enabling an interactive reading experience.
 

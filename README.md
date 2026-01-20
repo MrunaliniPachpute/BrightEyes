@@ -97,4 +97,6 @@ Special thanks to the communities behind:
 ---
 
 > **Note:** This application is primarily aimed at assisting visually impaired users by converting printed text into audio, making reading inclusive and interactive.
-> THANK YOU
+<p align="center" style="margin-top: 30px;">
+  <b style="color:#FFD700; font-size:20px;">Thank You for Visiting!</b>
+</p>

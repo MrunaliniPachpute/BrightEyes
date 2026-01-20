@@ -57,3 +57,35 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+---
+
+## 🛠️ Technologies Used
+
+- **Python**  
+- **Streamlit** for the interactive UI  
+- **OpenCV** for image processing  
+- **Pytesseract** for OCR  
+- **gTTS / pyttsx3** for Text-to-Speech  
+- **Summarization Library** (optional, e.g., `transformers`)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:  
+- Report bugs  
+- Suggest new features  
+- Improve UI/UX or audio experience  
+
+---
+
+## 🙏 Acknowledgements
+
+Special thanks to the communities behind:  
+- [Streamlit](https://streamlit.io/)  
+- [Pytesseract](https://pypi.org/project/pytesseract/)  
+- [OpenCV](https://opencv.org/)  
+
+---
+
+> **Note:** This application is primarily aimed at assisting visually impaired users by converting printed text into audio, making reading inclusive and interactive.

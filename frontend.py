@@ -35,7 +35,7 @@ def animated_title(text, delay=0.05, color="#FFD700"):  # Deep blue color
     for char in text:
         display_text += char
         placeholder.markdown(
-            f"<h2 style='color: {color}; font-family: Arial, sans-serif;'>{display_text}</h2>", 
+            f"<b><p style='color: {color}; font-family: Arial, sans-serif;'>{display_text}</p></b>", 
             unsafe_allow_html=True
         )
         time.sleep(delay)

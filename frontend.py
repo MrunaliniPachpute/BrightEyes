@@ -9,7 +9,22 @@ import azure_tts
 st.set_page_config(page_title="OCR Reader", layout="wide")
 
 # SIDEBAR
-st.sidebar.title("OCR App Menu")
+st.sidebar.markdown(
+    """
+    <style>
+    .sidebar-title {
+        font-size: 26px;
+        font-weight: 700;
+        color: #4CAF50;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    </style>
+    <div class="sidebar-title">📘 OCR App Menu</div>
+    """,
+    unsafe_allow_html=True
+)
+
 page = st.sidebar.radio("Go to", ["Home", "About"])
 
 if page == "About":

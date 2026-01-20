@@ -5,7 +5,7 @@ import os
 client = AzureOpenAI(
     api_version=os.getenv("AZURE_OPENAI_VERSION"),
     azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-    api_key=os.getenv("AZURE_OPENAI_APIKEY")
+    api_key=os.getenv("AZURE_OPENAI_API_KEY")
 )
 
 DEPLOYMENT_NAME =os.getenv("DEPLOYMENT_NAME")

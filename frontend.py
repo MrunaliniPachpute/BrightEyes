@@ -15,7 +15,7 @@ st.sidebar.markdown(
     """
     <style>
     .sidebar-title {
-        font-size: 34px;
+        font-size: 32px;
         font-weight: 600;
         color: #ff4e5b;
         margin-bottom: 12px;

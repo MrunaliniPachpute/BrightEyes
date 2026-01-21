@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=34&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=Accessibility+Reader+for+Visually+Impaired" style="vertical-align:middle;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=34&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=Accessibility+Tool+for+Visually+Impaired" style="vertical-align:middle;">
 </p>
 
 <div align="center">

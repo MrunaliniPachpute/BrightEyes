@@ -19,7 +19,7 @@ An accessible application designed to help **visually impaired users** read prin
 - **Audio Output**: Listen to the extracted text with **text-to-speech** functionality.
 - **Summarization**: Summarize long texts for faster understanding.
 - **Multi-Page Support**: Combine text from multiple images into a single seamless audio stream.
-- **OCR Highlights**: Highlights detected words in captured images for visual reference (if needed).
+- **OCR Highlights**: Highlights detected words in captured images for visual reference.
 
 ---
 
@@ -97,3 +97,6 @@ Special thanks to the communities behind:
 ---
 
 > **Note:** This application is primarily aimed at assisting visually impaired users by converting printed text into audio, making reading inclusive and interactive.
+<p align="center" style="margin-top: 30px;">
+  <b style="color:#FFD700; font-size:20px;">Thank You for Visiting!</b>
+</p>

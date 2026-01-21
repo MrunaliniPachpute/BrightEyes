@@ -1,0 +1,16 @@
+streamlit
+pytesseract
+Pillow
+
+numpy
+pandas
+
+python-dotenv
+
+pyttsx3
+
+openai
+azure-ai-openai
+azure-cognitiveservices-speech
+
+requests

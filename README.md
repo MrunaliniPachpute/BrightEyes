@@ -91,6 +91,7 @@ Contributions are welcome! Feel free to:
 ## ✅ Acknowledgements
 
 Special thanks to the communities behind:  
+- [Microsoft Azure](https://azure.microsoft.com/en-in)
 - [Streamlit](https://streamlit.io/)  
 - [Pytesseract](https://pypi.org/project/pytesseract/)  
 - [OpenCV](https://opencv.org/)  

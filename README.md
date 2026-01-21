@@ -75,7 +75,7 @@ streamlit run app.py
 - **OpenCV** for image processing  
 - **Pytesseract** for OCR  
 - **gTTS / pyttsx3** for Text-to-Speech  
-- **Summarization Library** (optional, e.g., `transformers`)
+- **Azure Cloud Computing Services** for openai and speech support
 
 ---
 

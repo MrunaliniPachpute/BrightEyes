@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://dummyimage.com/300x60/000/fff&text=Real" alt="OCR Reader" style="font-weight:bold; vertical-align:middle;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Accessibility+Reader+for+Visually+Impaired" style="vertical-align:middle;">
 </p>
 

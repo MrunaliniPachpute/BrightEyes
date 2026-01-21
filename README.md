@@ -42,7 +42,7 @@ This tool empowers users with visual challenges to:
 
 ## ⚙️ Installation
 
-1. Fork and then Clone this repository:
+1. Fork and then Clone this repo:
 
 ```bash
 git clone https://github.com/MrunaliniPachpute/BrightEyes.git

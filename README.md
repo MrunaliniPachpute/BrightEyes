@@ -45,7 +45,7 @@ This tool empowers users with visual challenges to:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/BrightEyes.git
+git clone https://github.com/MrunaliniPachpute/BrightEyes.git
 cd BrightEyes.git
 ```
 

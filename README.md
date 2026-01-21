@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://dummyimage.com/300x60/000/fff&text=OCR+Reader" alt="OCR Reader" style="font-weight:bold; vertical-align:middle;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=OCR+Reader+for+Visually+Impaired" style="vertical-align:middle;">
+  <img src="https://dummyimage.com/300x60/000/fff&text=Real" alt="OCR Reader" style="font-weight:bold; vertical-align:middle;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Accessibility+Reader+for+Visually+Impaired" style="vertical-align:middle;">
 </p>
 
 <div align="center">
@@ -8,7 +8,7 @@
 ![Rainbow Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 </div>
 
-An accessible application voice-to-voice, multilingual, designed to help **visually impaired users** read printed or handwritten text effortlessly. The app captures images, extracts text using **OCR (Optical Character Recognition)**, and converts it into **natural audio output**, enabling an interactive reading experience.
+An accessible application voice-to-voice, multilingual, designed to help **visually impaired users** read in real-time printed or handwritten text effortlessly. The app captures images, extracts text using **OCR (Optical Character Recognition)**, and converts it into **natural audio output**, enabling an interactive reading experience.
 
 ---
 

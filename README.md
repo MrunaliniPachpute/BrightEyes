@@ -34,12 +34,6 @@ This tool empowers users with visual challenges to:
 
 ## 🖥️ Screenshots
 
-<img width="800" height="717" alt="Screenshot (1442)" src="https://github.com/user-attachments/assets/eae36a03-b07f-4e93-b5ce-69ac7fa4319c" />
-
-<img width="800" height="704" alt="Screenshot (1443)" src="https://github.com/user-attachments/assets/e6fa5280-7cf9-49dd-a4f1-9fe3f320f004" />
-
-## 🏠 Homepage Screenshots
-
 | View 1 | View 2 |
 |--------|--------|
 | <img src="https://github.com/user-attachments/assets/eae36a03-b07f-4e93-b5ce-69ac7fa4319c" width="400"/> | <img src="https://github.com/user-attachments/assets/e6fa5280-7cf9-49dd-a4f1-9fe3f320f004" width="400"/> |
